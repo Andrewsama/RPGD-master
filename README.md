@@ -1,7 +1,7 @@
 # Robust Preference-Guided based Disentangled Graph Social Recommendation
 This repository is for RPGD model by <a href='https://github.com/Andrewsama'>@Andrewsama</a>, proposed in the following paper:
 
->Gang-Feng Ma, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong.
+> Gang-Feng Ma, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong. IEEE TNSE
 
 <small>* denotes corresponding author</small>
 
